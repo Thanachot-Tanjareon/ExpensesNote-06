@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Expenses Note</string>
+    <string name="total_money_usage">Total Expenses</string>
+    <string name="add_new_expense">Add New Expense</string>
+    <string name="expense_title_hint">Expense description (e.g. Lunch)</string>
+    <string name="expense_amount_hint">Amount ($)</string>
+    <string name="btn_add_expense">Add Expense</string>
+    <string name="latest_expenses">Recent Expenses</string>
+    <string name="no_expenses_yet">No expenses added yet.\nStart by adding one above!</string>
+    <string name="error_empty_title">Please enter a description</string>
+    <string name="error_invalid_amount">Please enter a valid amount greater than 0</string>
+    <string name="content_description_delete">Delete expense</string>
+    <string name="default_total_amount">$0.00</string>
+    <string name="entries_count">%1$d entries recorded</string>
+    <string name="formatted_amount">-$%1$.2f</string>
+</resources>

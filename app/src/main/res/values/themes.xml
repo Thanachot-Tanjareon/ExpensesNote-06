@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExpensesNote06" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="android:windowBackground">@color/surface_background</item>
+    </style>
+
+    <style name="Theme.ExpensesNote06" parent="Base.Theme.ExpensesNote06" />
+</resources>
